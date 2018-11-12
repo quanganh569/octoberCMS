@@ -1,0 +1,6 @@
+plugin:
+    name: 'quanganhdo.contact::lang.plugin.name'
+    description: 'quanganhdo.contact::lang.plugin.description'
+    author: QuangAnhdo
+    icon: oc-icon-adjust
+    homepage: ''

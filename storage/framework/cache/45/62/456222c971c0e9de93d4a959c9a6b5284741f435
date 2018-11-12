@@ -1,0 +1,54 @@
+1541989657a:1:{s:13:"tuyendung.htm";a:6:{s:8:"fileName";s:13:"tuyendung.htm";s:7:"content";s:899:"[advanced]
+idSlider = 1
+height = 1200
+autoplay = "true"
+fillmode = 1
+transaction = 1
+autoplayinterval = 1000
+pauseonhover = 1
+arrowkeynavigation = "true"
+slideduration = 500
+mindragoffset = 40
+slidespacing = 0
+dragorientation = 1
+playorientation = 1
+chancetoshow = 2
+autocenter = 1
+orientation = 1
+spacingx = 8
+spacingy = 8
+steps = 1
+lanes = 1
+chancetoshowarrow = 1
+autocenterarrow = 2
+stepsarrow = 1
+==
+<section id="blog" class="section">
+        <div class="container ">
+            <div class="row text-center">
+                <div class="col">
+                    <div class="overflow-hidden mb-5 ">
+                    
+
+                         {% component 'contenteditor' file="banner-tuyendung.htm" %}
+                    </div>
+                </div>
+            </div>
+          {% component 'advanced' %}
+                  
+        
+    </section>";s:5:"mtime";i:1541666784;s:6:"markup";s:470:"<section id="blog" class="section">
+        <div class="container ">
+            <div class="row text-center">
+                <div class="col">
+                    <div class="overflow-hidden mb-5 ">
+                    
+
+                         {% component 'contenteditor' file="banner-tuyendung.htm" %}
+                    </div>
+                </div>
+            </div>
+          {% component 'advanced' %}
+                  
+        
+    </section>";s:4:"code";N;s:8:"advanced";a:23:{s:8:"idSlider";s:1:"1";s:6:"height";s:4:"1200";s:8:"autoplay";s:4:"true";s:8:"fillmode";s:1:"1";s:11:"transaction";s:1:"1";s:16:"autoplayinterval";s:4:"1000";s:12:"pauseonhover";s:1:"1";s:18:"arrowkeynavigation";s:4:"true";s:13:"slideduration";s:3:"500";s:13:"mindragoffset";s:2:"40";s:12:"slidespacing";s:1:"0";s:15:"dragorientation";s:1:"1";s:15:"playorientation";s:1:"1";s:12:"chancetoshow";s:1:"2";s:10:"autocenter";s:1:"1";s:11:"orientation";s:1:"1";s:8:"spacingx";s:1:"8";s:8:"spacingy";s:1:"8";s:5:"steps";s:1:"1";s:5:"lanes";s:1:"1";s:17:"chancetoshowarrow";s:1:"1";s:15:"autocenterarrow";s:1:"2";s:10:"stepsarrow";s:1:"1";}}}

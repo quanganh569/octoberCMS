@@ -1,0 +1,39 @@
+==
+<section id="aboutus" class="section">
+    <div class="container">
+        <div class="row text-center mb-5 ">
+            <div class="col">
+                <div class="overflow-hidden mb-2 ">
+                     {% component 'contenteditor' file="banner-aboutus.htm" %}
+                </div>
+            </div>
+            <div class="row appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="600">
+                <div class="justify-content-center">
+                {% component 'contenteditor' file="gioithieu1.htm" %}
+                </div>
+                <br />
+                <div class="aboutus_content">
+                    <div class="row">
+                        <div class="content col-md-4 col-lg-4 col-sm-12">
+                        <img src="{{ 'aboutus/thongtincapnhat.png'|media }}" />
+                        
+                            {% component 'contenteditor' file="thongtincapnhat.htm" %}
+                        </div>
+
+                        <div class="content col-md-4 col-lg-4 col-sm-12">
+                            <img src="{{ 'aboutus/dulieudadang.png'|media }}" />
+                          
+                           {% component 'contenteditor' file="dulieudadang.htm" %}
+                        </div>
+
+                        <div class="content col-md-4 col-lg-4 col-sm-12">
+                           <img src="{{ 'aboutus/canhbaotucthi.png'|media }}" />
+                           
+                            {% component 'contenteditor' file="canhbaotucthi.htm" %}
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+</section>
